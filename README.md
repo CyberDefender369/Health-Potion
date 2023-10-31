@@ -1,7 +1,7 @@
 <h1>Health Potion</h1>
 
 <h2>Description</h2>
-This python project consists of 
+This simple Python project includes the use of variables, basic mathematical operations, and the random module. 
 
 <h2>Languages and Utilities Used</h2>
 
