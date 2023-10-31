@@ -1,7 +1,7 @@
 <h1>Health Potion</h1>
 
 <h2>Description</h2>
-This simple Python project includes the use of variables, basic mathematical operations, and the random module. 
+This simple Python project includes the use of variables, basic mathematical operations, and the random module. The project demonstrates how a health potion would work for a character in a video game.  
 
 <h2>Languages and Utilities Used</h2>
 
