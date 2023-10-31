@@ -1,7 +1,7 @@
 <h1>Health Potion</h1>
 
 <h2>Description</h2>
-This simple Python project demonstrates how a health potion works for a character in a video game. It includes the use of variables, basic mathematical arithmetics, and the random module. There are # difficulty levels: a lower diffculty level grants the character more health while a higher difficulty level yields the character less health. 
+This simple Python project demonstrates how a health potion works for a character in a video game. It includes the use of variables, basic mathematical arithmetics, and the random module. There are 3 difficulty levels: a lower diffculty level grants the character more health while a higher difficulty level yields the character less health. 
 
 <h2>Languages and Utilities Used</h2>
 
