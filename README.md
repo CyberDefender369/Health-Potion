@@ -7,13 +7,12 @@ This simple Python project demonstrates how a health potion would work for a cha
 
 - Python 3.10.11
 
-
 <h2>Environments Used </h2>
 
 - Windows 11
 - Thonny 4.1.3
 
-<h2>Note</h2>
+<h2>Notes</h2>
 
 This Python program does not validate user input. For example, if the user enters 4 (outside the intended range) the program still produces an output. One solution involves the creation of a function that manages input validation. Another solution would utilize if-else statements and logical operators to ensure input is within a valid range. There are, of course, many more solutions. Input validation will be accounted for in another project.
 <h2>Project Walk-Through:</h2>
