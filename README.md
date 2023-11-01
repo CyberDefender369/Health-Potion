@@ -15,6 +15,7 @@ This simple Python project demonstrates how a health potion would work for a cha
 <h2>Notes</h2>
 
 This Python program does not validate user input. For example, if the user enters 4 (outside the intended range) the program still produces an output. One solution involves the creation of a function that manages input validation. Another solution would utilize if-else statements and logical operators to ensure input is within a valid range. There are, of course, many more solutions. Input validation will be accounted for in another project.
+
 <h2>Project Walk-Through:</h2>
 
 <p align="left">
